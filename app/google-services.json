@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839552043691",
+    "project_id": "proyectomensajeria09",
+    "storage_bucket": "proyectomensajeria09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839552043691:android:b66e6732f02ccce7fc85ee",
+        "android_client_info": {
+          "package_name": "com.derrh.appmensajeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839552043691-239gp9c1gn9qs0eritjt9v84fv1c3l7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0AwD_ntj_AbM3_HYRm6ydWRTDweosKoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839552043691-239gp9c1gn9qs0eritjt9v84fv1c3l7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
